@@ -1,0 +1,41 @@
+body{background-colors: silve;}
+p{font-size: 10pt;}
+p:first-child 
+{font-size:9mm; font-styl:italic;}
+div#pierwszy_wrona{
+color:black;
+border-top-left-radius: 14pt;
+border-top-right-radius: 14pt;
+border-bottom-left-radius: 14pt;
+border-bottom-right-radius: 14pt;
+background-color:pink;
+width: 804px;
+border: 7px purple solid;
+}
+
+div#drugi_wrona{
+color:black;
+margin-left: auto;
+margin-right: auto;
+border-top-left-radius: 12pt;
+border-top-right-radius: 12pt;
+border-bottom-left-radius: 12pt;
+border-bottom-right-radius: 12pt;
+background-color:#bce27f;
+width: 1004px;
+border: 3px black solid;
+}
+
+
+div#trzeci_wrona{
+color:black;
+margin-left: auto;
+margin-right: auto;
+border-top-left-radius: 19pt;
+border-top-right-radius: 19pt;
+border-bottom-left-radius: 19pt;
+border-bottom-right-radius: 19pt;
+background-color:#0088ff;
+width: 1204px;
+border: 5px navy solid;
+}
